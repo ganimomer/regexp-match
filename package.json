@@ -1,6 +1,6 @@
 {
   "name": "regexp-match",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "regular expression matching without fear for undefined",
   "main": "index.js",
   "scripts": {
